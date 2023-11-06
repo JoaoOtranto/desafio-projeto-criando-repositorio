@@ -1,2 +1,3 @@
-# desafio-projeto-criando-repositorio
-Repositório criado para completar o desafio de projeto sobre Git e GitHub
+# Desafio de Projeto: Criando seu primeiro repositório no GitHub para compartilhar progresso!
+
+Este repositório se destina a completar o objetivo proposto dentro do curso através do desafio e simplesmente criar um repositório para envio na plataforma.
